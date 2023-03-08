@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software developer currently working on the Cloud Computing field, with a strong focus on Kubernetes. I like to work with different technologies, try to understand them and build something upon that. Part of my spare time goes into developing code for some personal projects or contributing to Open Source ones. You can visit my [website](https://eeenotes.com/) for more information.
+I am a software developer currently working on the Cloud Computing field, with a strong focus on Kubernetes. I like to work with different technologies, try to understand them and build something upon that. Part of my spare time goes into developing code for some personal projects or contributing to Open Source ones.
 
 
 
