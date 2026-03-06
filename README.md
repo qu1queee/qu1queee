@@ -1,23 +1,18 @@
 ### Hi there 👋
 
-I am a software developer currently working on the Cloud Computing field, with a strong focus on Kubernetes. I like to work with different technologies, try to understand them and build something upon that. Part of my spare time goes into developing code for some personal projects or contributing to Open Source ones.
+I build and operate systems.
 
+By day I work in the Cloud Native ecosystem, building and maintaining infrastructure around Kubernetes and distributed systems. I maintain a CNCF Sandbox project and spend a lot of time thinking about how modern platforms should actually behave and be operated in production.
 
+By early mornings and long weekends, I train for Ironman races.
 
+3.8 km swim · 180 km bike · 42 km run.
 
-[![qu1queee's github stats](https://github-readme-stats.vercel.app/api?username=qu1queee)](https://github.com/anuraghazra/github-readme-stats)
+Lately I’ve been building AI-assisted tooling for endurance training, exploring how software can model training load, recovery, and race strategy.
 
-<!--
-**qu1queee/qu1queee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Different domains.
+Same approach.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Understand the system.
+Model the constraints.
+Iterate until it works.
