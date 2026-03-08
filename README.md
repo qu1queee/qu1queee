@@ -17,4 +17,4 @@ Understand the system.
 Model the constraints.
 Iterate until it works.
 
-<!-- week-progress-card -->![Week Progress](assets/week-progress-2026-03-08.png)<!-- week-progress-card -->
+![Week Progress](assets/week-progress-2026-03-08.png)
